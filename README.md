@@ -50,4 +50,4 @@ I hope you enjoy using this project, Thank you.
 ## Github Repository Link
 <a href="https://github.com/ST10375898/Recipe_System_Part1">Repository Link</a>
 ## Screeshot of Repository Commit
-<img src="Screenshot(146).png">
+<img src="Screenshot(146).png" width="500px" height="500px">
