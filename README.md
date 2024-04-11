@@ -10,7 +10,7 @@ This application is built for chefs, people in the calinary field and everyday f
 
 The part about scaling basically allows the user to half, double or triple the original measurements of the recipe ingrediants. This is done incase a user would like to icrease the amount of output product that a recipe produces at original scale.
 ## Basic system diagram image
-<img src="recipeSystemDiagram.png" width="500px" height="500px" alt="Image of basic system functionalities.">
+<img src="recipeSystemDiagram.png" width="" height="500px" alt="Image of basic system functionalities.">
 
 ## User instructions
 1. Clone project from git hub.
@@ -50,4 +50,4 @@ I hope you enjoy using this project, Thank you.
 ## Github Repository Link
 <a href="https://github.com/ST10375898/Recipe_System_Part1">Repository Link</a>
 ## Screeshot of Repository Commit
-<img src="Screenshot (146).png" width="500px" height="500px">
+<img src="Screenshot (146).png" width="" height="500px">
